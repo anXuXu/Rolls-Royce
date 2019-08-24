@@ -22,7 +22,7 @@ public class AdminController {
         jsonMsg = new JsonMsg();
     }
     /**
-     * 文档管理
+     * 权限管理
      * @return
      * @throws Exception
      */
