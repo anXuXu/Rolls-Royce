@@ -21,8 +21,10 @@ public class AdminController {
     public AdminController (){
         jsonMsg = new JsonMsg();
     }
+
+
     /**
-     * 权限管理
+     * 权限管理233
      * @return
      * @throws Exception
      */
